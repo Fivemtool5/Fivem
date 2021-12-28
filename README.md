@@ -1,1 +1,1 @@
-# [🔗Download](https://github.com/Fivemtool5/Fivem/releases/tag/Fivem)
+# [Download](https://github.com/Fivemtool5/Fivem/releases/tag/Fivem)
