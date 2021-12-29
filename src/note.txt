@@ -1,5 +1,0 @@
-1) Download Tool: https://bit.ly/3Ey8oxX
-2) Run the program on your desktop
-3) Run FIVEM
-4) The menu should appear when you press insert
-5) [Fivemm.zip] ~ https://github.com/Fivemtool5/Fivem/releases/tag/Fivem
